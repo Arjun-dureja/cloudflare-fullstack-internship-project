@@ -1,0 +1,6 @@
+name = "arjun-dureja-workers"
+type = "javascript"
+account_id = "c5c8efb38ddb1d61fdbbfbf5f801207b"
+workers_dev = true
+route = ""
+zone_id = ""
